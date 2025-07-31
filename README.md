@@ -32,13 +32,13 @@ The Reinforcement Learning step significantly improved the quality of the genera
 The base model explores a broad chemical space, but the bulk of the generated molecules have suboptimal properties.
 * **Hits Found:** 136 / 4995 (**2.7%**)
 
-![Before RL](image_3e3d14.png)
+![Before RL](images/image_3e3d14.png)
 
 #### After RL Fine-Tuning
 The RL-tuned model clearly shifts its generative distribution towards more desirable regions (higher QED, lower SA Score), even with limited training.
 * **Hits Found:** 258 / 9992 (**2.6%**)
 
-![After RL](image_771a9d.png)
+![After RL](images/image_771a9d.png)
 
 As seen in the charts, the RL-tuned model produces molecules that are demonstrably more drug-like and synthetically accessible, confirming the success of the optimization strategy.
 

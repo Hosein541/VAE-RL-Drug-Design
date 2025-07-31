@@ -67,3 +67,10 @@ While the project established a robust generative pipeline, the following steps 
 * **RL Optimization with Docking Score:** Integrate the docking score directly into the RL reward function to create a powerful feedback loop that optimizes for binding affinity.
 * **Molecular Dynamics (MD) Simulations:** Assess the stability of the top ligand-protein complexes over time.
 * **In Vitro Validation:** Synthesize the most promising computational hits for experimental validation in a laboratory setting.
+
+
+## Contact
+* **Author:** Hosein Mohammadi
+* **Date:** July 2024
+* **Contact:** [huseinmohammadi83@gmail.com](mailto:huseinmohammadi83@gmail.com)
+* **LinkedIn:** [Hosein Mohammadi](https://www.linkedin.com/in/hosein-mohammadi-979b8a2b2/) 
